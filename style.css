@@ -1,0 +1,46 @@
+body{
+    background: rgba(255, 255, 255, 0.699);
+}
+h1{
+    font-size: 120px;
+    text-align: center;
+}
+.parallax-1{
+    background-image: url(https://ik.imgkit.net/3vlqs5axxjf/external/http://images.ntmllc.com/v4/destination/South-Korea/Seoul/219740_SCN_Seoul_iStock521707831_ZC35CD.jpg?tr=w-1200%2Cfo-auto);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.parallax-2{
+    background-image: url(https://media-cdn.tripadvisor.com/media/photo-s/15/a6/96/8c/crossing-the-heart-of.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.parallax-3{
+    background-image: url(https://ucarecdn.com/2667d034-3197-4c39-b162-579a4e2e583a/-/crop/1920x1007/0,72/-/resize/1200x630/-/resize/x300/);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.parallax-4{
+    background-image: url(https://cdn2.veltra.com/ptr/20190923063926_45903472_13307_0.jpg?imwidth=800&impolicy=custom);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.parallax-inner{
+    padding: 10%;
+}
+h2{
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(24, 102, 204);
+    text-align: center;
+    font-weight: 300;
+    letter-spacing: 2px;
+    margin: 20px 0 10px;
+}
